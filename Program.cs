@@ -1,5 +1,5 @@
 // Added comment for testing
-//branch test b2
+//branch test b2 update
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
